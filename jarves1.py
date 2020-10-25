@@ -130,7 +130,7 @@ if __name__ == "__main__":
             speak(f"Sir,the time is now {strTime}")
             print(strTime)
 
-        elif "email to sameer" in quary:
+        elif "email to samir" in quary:
             try:
                 speak("what should i say?")
                 content=takecommand().lower()
